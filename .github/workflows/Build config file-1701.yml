@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build config file
+name: Build config file 1701
 
 on:
   repository_dispatch:
