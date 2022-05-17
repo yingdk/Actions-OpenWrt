@@ -25,6 +25,9 @@
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon-jerrykuku
 
+#添关机选项插件
+git clone https://github.com/esirplayground/luci-app-poweroff.git package/lean/uci-app-poweroff
+
 #添加甜糖星愿插件
 #git clone https://github.com/jerrykuku/luci-app-ttnode.git package/ttnode
 
