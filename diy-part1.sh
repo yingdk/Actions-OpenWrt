@@ -28,7 +28,7 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luc
 #添加关机选项插件
 git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
 #添加socat插件
-git clone https://github.com/sirpdboy/sirpdboy-package/tree/main/luci-app-socat.git package/luci-app-socat
+git clone https://github.com/sirpdboy/sirpdboy-package/luci-app-socat.git package/luci-app-socat
 #添加甜糖星愿插件
 #git clone https://github.com/jerrykuku/luci-app-ttnode.git package/ttnode
 
