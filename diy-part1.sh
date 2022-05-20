@@ -20,17 +20,9 @@
 #删除原主题	
 #rm -rf package/lean/luci-theme-argon
 
-#添加主题
-#git clone https://github.com/sypopo/luci-theme-atmaterial.git package/luci-theme-atmaterial
-git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/luci-theme-opentomato
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon-jerrykuku
 
-#添加关机选项插件
-git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-app-poweroff
-#添加socat插件
-git clone https://github.com/yingdk/luci-app-socat.git package/luci-app-socat
-#添加eqos插件
-git clone https://github.com/yingdk/luci-app-eqos.git package/luci-app-eqos
+#添加插件包
+git clone https://github.com/yingdk/yingdk-package package/yingdk-package
 
 #添加甜糖星愿插件
 #git clone https://github.com/jerrykuku/luci-app-ttnode.git package/ttnode
