@@ -30,7 +30,7 @@ git clone https://github.com/esirplayground/luci-app-poweroff.git package/luci-a
 #添加socat插件
 git clone https://github.com/yingdk/luci-app-socat.git package/luci-app-socat
 #添加eqos插件
-git clone https://github.com/yingdk/luci-app-eqos/luci-app-eqos
+git clone https://github.com/yingdk/luci-app-eqos.git package/luci-app-eqos
 
 #添加甜糖星愿插件
 #git clone https://github.com/jerrykuku/luci-app-ttnode.git package/ttnode
